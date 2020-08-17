@@ -1,0 +1,917 @@
+08-14 09:41:46.437 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:43:56.733 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12403 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:43:56.734 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:43:56.797 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:43:56.798 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:43:57.573 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:43:57.581 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:43:57.582 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:43:57.582 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:43:57.639 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:43:57.639 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 841 ms
+08-14 09:43:57.823 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:43:57.943 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 09:43:57.977 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 09:43:58.000 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 09:43:58.004 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.749 seconds (JVM running for 2.946)
+08-14 09:48:48.454 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 09:48:48.455 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 09:48:48.462 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 09:50:09.293 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:50:13.063 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12538 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:50:13.064 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:50:13.106 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:50:13.106 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:50:13.857 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:50:13.865 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:50:13.865 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:50:13.865 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:50:13.923 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:50:13.924 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 817 ms
+08-14 09:50:14.072 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:50:14.117 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:50:14.120 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:51:28.734 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12578 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:51:28.736 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:51:28.775 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:51:28.775 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:51:29.454 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:51:29.461 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:51:29.462 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:51:29.462 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:51:29.511 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:51:29.511 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 736 ms
+08-14 09:51:29.638 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:51:29.681 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:51:29.683 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:51:59.161 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12599 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:51:59.162 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:51:59.216 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:51:59.216 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:51:59.931 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:51:59.940 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:51:59.941 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:51:59.941 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:51:59.990 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:51:59.991 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 775 ms
+08-14 09:52:00.131 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:52:00.174 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:52:00.176 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:52:28.141 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12616 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:52:28.142 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:52:28.191 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:52:28.191 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:52:28.903 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:52:28.909 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:52:28.909 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:52:28.910 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:52:28.955 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:52:28.956 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 765 ms
+08-14 09:52:29.086 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:52:29.130 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:52:29.133 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:52:51.298 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12626 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:52:51.300 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:52:51.353 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:52:51.354 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:52:52.079 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:52:52.086 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:52:52.086 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:52:52.086 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:52:52.136 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:52:52.137 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 783 ms
+08-14 09:52:52.274 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:52:52.387 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 09:52:52.420 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 09:52:52.437 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 09:52:52.440 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.571 seconds (JVM running for 2.262)
+08-14 09:53:01.340 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 09:53:01.341 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 09:53:01.347 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 09:53:06.920 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:53:10.755 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12646 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:53:10.757 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:53:10.805 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:53:10.806 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:53:11.587 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:53:11.594 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:53:11.594 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:53:11.594 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:53:11.637 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:53:11.638 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 832 ms
+08-14 09:53:11.768 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:53:11.815 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:53:11.817 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:54:00.720 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12660 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:54:00.721 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:54:00.757 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:54:00.758 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:54:01.425 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:54:01.433 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:54:01.433 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:54:01.433 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:54:01.484 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:54:01.484 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 726 ms
+08-14 09:54:01.621 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:54:01.739 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 09:54:01.771 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 09:54:01.788 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 09:54:01.791 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.55 seconds (JVM running for 2.418)
+08-14 09:54:05.363 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 09:54:05.363 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 09:54:05.368 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 09:54:13.846 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:54:17.859 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12681 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:54:17.860 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:54:17.910 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:54:17.910 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:54:18.641 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:54:18.649 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:54:18.649 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:54:18.649 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:54:18.698 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:54:18.699 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 788 ms
+08-14 09:54:18.831 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:54:18.871 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 09:54:18.874 INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+08-14 09:54:34.867 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12688 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 09:54:34.868 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 09:54:34.906 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 09:54:34.906 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 09:54:35.654 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 09:54:35.661 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 09:54:35.662 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 09:54:35.662 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 09:54:35.711 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 09:54:35.711 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 805 ms
+08-14 09:54:35.844 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 09:54:35.955 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 09:54:35.987 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 09:54:36.004 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 09:54:36.008 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.595 seconds (JVM running for 2.365)
+08-14 09:54:39.072 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 09:54:39.073 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 09:54:39.078 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 09:56:20.234 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:02:40.107 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 12857 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:02:40.109 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:02:40.156 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:02:40.156 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:02:40.869 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:02:40.877 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:02:40.878 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:02:40.878 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:02:40.938 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:02:40.938 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 782 ms
+08-14 10:02:41.078 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:02:41.206 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:02:41.239 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:02:41.262 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:02:41.267 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.597 seconds (JVM running for 2.344)
+08-14 10:02:47.408 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:02:47.409 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:02:47.416 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+08-14 10:10:32.257 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:10:37.129 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13036 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:10:37.130 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:10:37.170 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:10:37.170 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:10:37.918 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:10:37.929 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:10:37.930 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:10:37.930 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:10:37.989 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:10:37.990 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 819 ms
+08-14 10:10:38.128 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:10:38.247 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:10:38.279 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:10:38.299 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:10:38.302 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.552 seconds (JVM running for 2.122)
+08-14 10:10:46.982 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:10:46.983 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:10:46.989 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:11:11.742 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:11:58.842 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13074 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:11:58.843 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:11:58.885 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:11:58.886 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:11:59.649 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:11:59.657 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:11:59.658 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:11:59.658 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:11:59.713 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:11:59.714 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 828 ms
+08-14 10:11:59.857 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:11:59.973 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:12:00.006 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:12:00.026 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:12:00.030 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.614 seconds (JVM running for 2.218)
+08-14 10:12:04.622 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:12:04.622 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:12:04.628 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:12:47.667 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:12:51.608 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13098 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:12:51.609 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:12:51.654 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:12:51.654 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:12:52.434 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:12:52.443 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:12:52.444 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:12:52.444 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:12:52.498 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:12:52.499 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 844 ms
+08-14 10:12:52.633 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:12:52.759 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:12:52.795 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:12:52.813 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:12:52.817 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.593 seconds (JVM running for 2.195)
+08-14 10:12:57.906 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:12:57.907 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:12:57.913 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:17:03.130 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:17:07.271 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13175 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:17:07.272 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:17:07.317 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:17:07.317 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:17:08.025 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:17:08.034 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:17:08.034 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:17:08.034 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:17:08.092 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:17:08.092 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 774 ms
+08-14 10:17:08.224 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:17:08.335 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:17:08.365 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:17:08.383 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:17:08.387 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.527 seconds (JVM running for 2.255)
+08-14 10:17:13.357 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:17:13.358 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:17:13.364 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:17:49.727 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:21:18.832 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13264 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:21:18.836 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:21:18.908 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:21:18.908 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:21:19.667 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:21:19.676 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:21:19.676 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:21:19.676 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:21:19.735 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:21:19.736 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 828 ms
+08-14 10:21:19.874 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:21:19.996 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:21:20.031 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:21:20.052 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:21:20.056 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.953 seconds (JVM running for 2.807)
+08-14 10:21:22.197 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:21:22.197 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:21:22.203 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 10:26:58.229 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:27:18.431 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13385 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:27:18.432 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:27:18.476 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:27:18.476 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:27:19.175 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:27:19.183 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:27:19.184 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:27:19.184 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:27:19.239 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:27:19.240 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 763 ms
+08-14 10:27:19.373 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:27:19.497 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:27:19.528 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:27:19.548 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:27:19.552 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.626 seconds (JVM running for 2.398)
+08-14 10:27:22.603 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:27:22.604 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:27:22.610 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:28:41.991 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:29:01.654 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13423 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:29:01.655 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:29:01.704 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:29:01.704 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:29:02.452 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:29:02.461 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:29:02.462 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:29:02.462 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:29:02.520 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:29:02.520 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 816 ms
+08-14 10:29:02.653 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:29:02.770 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:29:02.802 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:29:02.822 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:29:02.826 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.581 seconds (JVM running for 2.176)
+08-14 10:29:34.413 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:29:34.414 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:29:34.421 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+08-14 10:29:58.728 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:30:02.834 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13448 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:30:02.837 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:30:02.870 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:30:02.870 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:30:03.510 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:30:03.517 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:30:03.518 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:30:03.518 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:30:03.563 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:30:03.563 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 693 ms
+08-14 10:30:03.695 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:30:03.804 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:30:03.837 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:30:03.854 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:30:03.858 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.505 seconds (JVM running for 2.309)
+08-14 10:30:06.966 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:30:06.970 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:30:06.978 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+08-14 10:30:30.454 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:30:34.276 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13470 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:30:34.277 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:30:34.316 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:30:34.316 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:30:35.019 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:30:35.026 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:30:35.026 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:30:35.026 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:30:35.077 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:30:35.078 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 761 ms
+08-14 10:30:35.211 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:30:35.321 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:30:35.354 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:30:35.372 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:30:35.375 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.477 seconds (JVM running for 2.051)
+08-14 10:30:38.592 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:30:38.593 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:30:38.599 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:32:19.861 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:32:24.090 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13528 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:32:24.091 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:32:24.133 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:32:24.133 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:32:24.832 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:32:24.840 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:32:24.840 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:32:24.840 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:32:24.893 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:32:24.893 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 759 ms
+08-14 10:32:25.034 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:32:25.153 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:32:25.186 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:32:25.204 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:32:25.208 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.55 seconds (JVM running for 2.312)
+08-14 10:32:27.980 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:32:27.980 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:32:27.987 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:32:37.514 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:32:41.706 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13550 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:32:41.707 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:32:41.760 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:32:41.760 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:32:42.470 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:32:42.477 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:32:42.477 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:32:42.478 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:32:42.521 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:32:42.521 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 760 ms
+08-14 10:32:42.651 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:32:42.760 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:32:42.792 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:32:42.810 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:32:42.814 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.53 seconds (JVM running for 2.144)
+08-14 10:32:44.382 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:32:44.383 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:32:44.388 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 10:37:42.406 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:37:46.454 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13657 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:37:46.456 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:37:46.501 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:37:46.502 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:37:47.182 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:37:47.189 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:37:47.189 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:37:47.189 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:37:47.240 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:37:47.241 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 739 ms
+08-14 10:37:47.372 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:37:47.489 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:37:47.522 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:37:47.539 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:37:47.543 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.593 seconds (JVM running for 2.293)
+08-14 10:37:52.792 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:37:52.793 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:37:52.799 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:40:36.605 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:40:41.083 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13714 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:40:41.084 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:40:41.123 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:40:41.123 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:40:41.801 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:40:41.808 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:40:41.808 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:40:41.808 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:40:41.860 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:40:41.861 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 738 ms
+08-14 10:40:41.989 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:40:42.106 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:40:42.135 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:40:42.152 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:40:42.156 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.52 seconds (JVM running for 2.306)
+08-14 10:40:45.413 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:40:45.445 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:40:45.462 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+08-14 10:41:13.051 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:41:39.765 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13744 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:41:39.766 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:41:39.817 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:41:39.818 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:41:40.567 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:41:40.573 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:41:40.573 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:41:40.574 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:41:40.621 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:41:40.621 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 803 ms
+08-14 10:41:40.772 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:41:40.898 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:41:40.930 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:41:40.947 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:41:40.952 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.638 seconds (JVM running for 2.297)
+08-14 10:41:42.723 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:41:42.724 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:41:42.731 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+08-14 10:42:00.854 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:42:04.728 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13755 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:42:04.729 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:42:04.776 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:42:04.776 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:42:05.492 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:42:05.499 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:42:05.499 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:42:05.499 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:42:05.548 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:42:05.548 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 772 ms
+08-14 10:42:05.688 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:42:05.799 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:42:05.834 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:42:05.852 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:42:05.856 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.559 seconds (JVM running for 2.142)
+08-14 10:42:09.351 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:42:09.352 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:42:09.358 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:43:45.075 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:43:49.037 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13803 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:43:49.038 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:43:49.079 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:43:49.080 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:43:49.729 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:43:49.736 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:43:49.736 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:43:49.737 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:43:49.785 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:43:49.786 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 706 ms
+08-14 10:43:49.919 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:43:50.029 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:43:50.060 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:43:50.077 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:43:50.081 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.442 seconds (JVM running for 2.2)
+08-14 10:43:53.844 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:43:53.845 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:43:53.851 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:47:56.213 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:47:59.201 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13916 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:47:59.202 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:47:59.249 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:47:59.249 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:47:59.956 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:47:59.963 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:47:59.963 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:47:59.963 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:48:00.011 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:48:00.012 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 763 ms
+08-14 10:48:00.143 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:48:00.254 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:48:00.286 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:48:00.302 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:48:00.306 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.579 seconds (JVM running for 2.541)
+08-14 10:48:05.550 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:48:05.550 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:48:05.555 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+08-14 10:49:34.421 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:52:12.501 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13916 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:52:12.501 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:52:12.643 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:52:12.643 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:52:12.643 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:52:12.654 INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:52:12.654 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 151 ms
+08-14 10:52:12.705 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:52:12.763 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:52:12.784 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:52:12.785 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 0.562 seconds (JVM running for 255.031)
+08-14 10:52:12.786 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+08-14 10:52:20.217 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:52:20.313 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 13916 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:52:20.313 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:52:20.487 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:52:20.488 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:52:20.488 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:52:20.506 INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:52:20.506 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 190 ms
+08-14 10:52:20.557 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:52:20.593 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:52:20.609 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:52:20.609 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 0.336 seconds (JVM running for 262.856)
+08-14 10:52:20.611 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+08-14 10:52:22.115 INFO  com.zhaouri.applelogin.DemoApplicationTests - Starting DemoApplicationTests on lifevcs-MacBook-Pro.local with PID 14017 (started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:52:22.116 INFO  com.zhaouri.applelogin.DemoApplicationTests - No active profile set, falling back to default profiles: default
+08-14 10:52:23.222 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:52:23.478 INFO  com.zhaouri.applelogin.DemoApplicationTests - Started DemoApplicationTests in 1.82 seconds (JVM running for 2.718)
+08-14 10:52:23.898 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:53:31.499 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:53:38.045 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14065 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:53:38.047 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:53:38.090 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 10:53:38.091 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 10:53:38.092 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:53:38.092 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:53:38.835 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:53:38.842 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:53:38.842 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:53:38.843 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:53:38.896 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:53:38.896 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 804 ms
+08-14 10:53:39.036 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:53:39.151 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:53:39.183 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:53:39.199 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:53:39.203 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.623 seconds (JVM running for 2.328)
+08-14 10:53:45.170 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:53:45.171 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:53:45.176 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 10:54:58.061 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:55:02.229 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14108 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:55:02.230 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:55:02.266 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 10:55:02.267 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 10:55:02.267 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:55:02.268 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:55:02.929 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:55:02.936 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:55:02.937 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:55:02.937 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:55:02.991 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:55:02.992 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 723 ms
+08-14 10:55:03.132 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:55:03.244 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:55:03.276 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:55:03.294 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:55:03.297 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.533 seconds (JVM running for 2.321)
+08-14 10:55:15.213 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:55:15.213 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:55:15.220 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:55:51.536 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:56:09.060 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14139 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:56:09.062 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:56:09.113 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 10:56:09.114 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 10:56:09.115 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:56:09.115 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:56:09.854 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:56:09.863 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:56:09.863 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:56:09.863 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:56:09.912 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:56:09.912 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 797 ms
+08-14 10:56:10.053 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:56:10.165 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:56:10.196 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:56:10.213 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:56:10.217 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.57 seconds (JVM running for 2.242)
+08-14 10:56:12.956 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:56:12.957 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:56:12.963 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 10:57:52.521 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 10:57:56.576 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14175 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 10:57:56.577 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 10:57:56.622 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 10:57:56.623 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 10:57:56.627 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 10:57:56.627 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 10:57:57.362 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 10:57:57.369 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 10:57:57.369 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 10:57:57.369 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 10:57:57.421 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 10:57:57.422 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 795 ms
+08-14 10:57:57.557 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 10:57:57.671 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 10:57:57.704 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 10:57:57.721 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 10:57:57.725 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.531 seconds (JVM running for 2.151)
+08-14 10:58:59.829 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 10:58:59.830 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 10:58:59.837 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 11:01:44.151 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:07:05.528 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14351 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:07:05.529 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:07:05.576 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:07:05.577 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:07:05.577 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:07:05.578 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:07:06.267 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:07:06.274 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:07:06.274 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:07:06.275 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:07:06.326 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:07:06.326 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 748 ms
+08-14 11:07:06.464 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:07:06.577 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:07:06.610 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:07:06.627 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:07:06.631 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.551 seconds (JVM running for 2.308)
+08-14 11:07:09.669 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:07:09.670 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:07:09.676 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 11:08:40.853 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:08:46.362 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14388 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:08:46.363 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:08:46.409 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:08:46.410 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:08:46.411 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:08:46.411 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:08:47.198 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:08:47.204 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:08:47.205 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:08:47.205 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:08:47.254 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:08:47.255 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 843 ms
+08-14 11:08:47.461 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:08:47.603 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:08:47.640 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:08:47.659 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:08:47.664 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.7 seconds (JVM running for 2.428)
+08-14 11:08:51.914 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:08:51.915 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:08:51.920 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:09:32.111 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:09:36.327 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14412 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:09:36.329 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:09:36.371 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:09:36.371 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:09:36.372 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:09:36.372 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:09:37.044 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:09:37.051 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:09:37.052 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:09:37.052 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:09:37.107 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:09:37.107 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 735 ms
+08-14 11:09:37.245 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:09:37.361 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:09:37.393 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:09:37.411 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:09:37.415 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.5 seconds (JVM running for 2.328)
+08-14 11:09:39.673 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:09:39.674 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:09:39.679 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:17:16.437 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:17:20.978 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14550 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:17:20.979 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:17:21.034 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:17:21.038 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:17:21.040 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:17:21.040 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:17:21.751 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:17:21.758 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:17:21.759 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:17:21.759 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:17:21.808 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:17:21.808 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 767 ms
+08-14 11:17:21.940 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:17:22.045 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:17:22.077 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:17:22.093 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:17:22.097 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.582 seconds (JVM running for 2.459)
+08-14 11:17:45.224 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:17:45.225 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:17:45.230 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:18:16.095 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:18:20.567 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14574 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:18:20.568 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:18:20.715 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:18:20.718 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:18:20.720 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:18:20.720 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:18:21.887 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:18:21.895 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:18:21.896 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:18:21.896 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:18:21.961 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:18:21.962 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1242 ms
+08-14 11:18:22.128 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:18:22.250 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:18:22.283 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:18:22.303 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:18:22.307 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 2.24 seconds (JVM running for 3.106)
+08-14 11:18:55.314 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:18:59.617 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14589 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:18:59.619 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:18:59.666 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:18:59.667 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:18:59.669 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:18:59.670 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:19:00.465 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:19:00.472 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:19:00.473 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:19:00.473 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:19:00.527 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:19:00.528 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 858 ms
+08-14 11:19:00.676 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:19:00.792 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:19:00.826 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:19:00.844 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:19:00.848 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.636 seconds (JVM running for 2.269)
+08-14 11:19:06.924 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:19:06.925 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:19:06.932 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+08-14 11:19:36.010 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:19:40.116 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14604 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:19:40.117 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:19:40.159 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:19:40.160 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:19:40.160 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:19:40.161 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:19:40.831 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:19:40.838 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:19:40.839 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:19:40.839 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:19:40.889 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:19:40.889 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 728 ms
+08-14 11:19:41.027 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:19:41.139 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:19:41.169 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:19:41.186 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:19:41.190 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.475 seconds (JVM running for 2.244)
+08-14 11:19:44.622 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:19:44.623 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:19:44.629 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:20:38.726 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:20:42.742 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14630 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:20:42.744 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:20:42.795 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:20:42.795 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:20:42.797 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:20:42.797 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:20:43.557 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:20:43.563 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:20:43.564 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:20:43.564 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:20:43.612 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:20:43.612 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 815 ms
+08-14 11:20:43.747 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:20:43.858 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:20:43.889 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:20:43.906 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:20:43.914 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.595 seconds (JVM running for 2.222)
+08-14 11:20:47.134 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:20:47.135 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:20:47.143 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+08-14 11:34:41.075 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:34:41.509 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14630 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:34:41.510 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:34:41.807 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:34:41.807 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:34:41.807 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:34:41.808 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:34:41.818 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:34:41.818 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 302 ms
+08-14 11:34:41.864 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:34:41.896 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:34:41.908 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:34:41.910 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:34:41.911 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 0.762 seconds (JVM running for 840.257)
+08-14 11:34:41.912 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+08-14 11:38:00.420 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:39:28.337 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 14986 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:39:28.338 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:39:28.372 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:39:28.372 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:39:28.372 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:39:28.373 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:39:29.027 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:39:29.034 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:39:29.034 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:39:29.035 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:39:29.082 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:39:29.083 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 710 ms
+08-14 11:39:29.211 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:39:29.318 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:39:29.348 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:39:29.365 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:39:29.369 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.477 seconds (JVM running for 2.378)
+08-14 11:39:35.402 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:39:35.403 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:39:35.409 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 11:40:07.317 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:40:16.610 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 15017 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:40:16.612 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:40:16.661 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:40:16.664 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:40:16.665 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:40:16.665 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:40:17.440 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:40:17.446 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:40:17.447 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:40:17.447 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:40:17.499 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:40:17.499 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 834 ms
+08-14 11:40:17.637 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:40:17.755 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:40:17.786 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:40:17.803 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:40:17.807 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.64 seconds (JVM running for 2.335)
+08-14 11:40:26.289 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:40:26.330 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:40:26.336 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+08-14 11:41:16.089 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:41:24.250 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 15042 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:41:24.251 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:41:24.308 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:41:24.309 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:41:24.310 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:41:24.310 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:41:25.270 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:41:25.279 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:41:25.279 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:41:25.280 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:41:25.336 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:41:25.337 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1027 ms
+08-14 11:41:25.483 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:41:25.594 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:41:25.626 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:41:25.649 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:41:25.652 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.815 seconds (JVM running for 2.529)
+08-14 11:44:22.493 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:44:22.494 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:44:22.499 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:45:58.877 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:46:03.252 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 15127 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:46:03.253 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:46:03.292 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:46:03.295 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:46:03.296 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:46:03.297 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:46:04.099 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:46:04.106 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:46:04.107 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:46:04.107 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:46:04.161 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:46:04.161 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 864 ms
+08-14 11:46:04.293 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:46:04.395 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:46:04.427 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:46:04.443 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:46:04.447 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.604 seconds (JVM running for 2.328)
+08-14 11:46:11.271 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:46:11.274 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:46:11.281 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+08-14 11:46:59.792 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:57:00.495 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 15357 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:57:00.502 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:57:00.543 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:57:00.543 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:57:00.544 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:57:00.544 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:57:01.254 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:57:01.261 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:57:01.262 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:57:01.262 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:57:01.317 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:57:01.318 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 774 ms
+08-14 11:57:01.454 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:57:01.563 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:57:01.595 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:57:01.611 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:57:01.615 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.778 seconds (JVM running for 2.684)
+08-14 11:57:04.728 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 11:57:04.729 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 11:57:04.734 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+08-14 11:58:32.371 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08-14 11:58:37.797 INFO  com.zhaouri.applelogin.DemoApplication - Starting DemoApplication on lifevcs-MacBook-Pro.local with PID 15398 (/Users/lifevc/Desktop/AppleLogin-java/applelogin/target/classes started by lifevc in /Users/lifevc/Desktop/AppleLogin-java/applelogin)
+08-14 11:58:37.798 INFO  com.zhaouri.applelogin.DemoApplication - No active profile set, falling back to default profiles: default
+08-14 11:58:37.852 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-core.jar
+08-14 11:58:37.852 INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in /Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar referenced one or more files that do not exist: file:/Users/lifevc/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-api.jar
+08-14 11:58:37.856 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08-14 11:58:37.856 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08-14 11:58:38.605 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+08-14 11:58:38.612 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+08-14 11:58:38.612 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+08-14 11:58:38.612 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08-14 11:58:38.670 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08-14 11:58:38.670 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 814 ms
+08-14 11:58:38.806 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08-14 11:58:38.918 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08-14 11:58:38.951 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+08-14 11:58:38.967 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+08-14 11:58:38.972 INFO  com.zhaouri.applelogin.DemoApplication - Started DemoApplication in 1.615 seconds (JVM running for 2.34)
+08-14 12:05:22.220 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08-14 12:05:22.221 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08-14 12:05:22.231 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
